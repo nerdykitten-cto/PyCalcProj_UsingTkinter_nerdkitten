@@ -1,1 +1,5 @@
-print("Python calculators are not the point anymore, You will never be great at anything!!!")
+"""
+TO-DO List
+- Make this a better version of the calculator code from the top
+
+"""
